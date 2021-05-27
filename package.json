@@ -1,9 +1,10 @@
 {
-    "name": "theme-strict-dark",
-    "displayName": "Theme_stick_green_dark",
-    "description": "Theme_stick_green_dark",
-    "version": "0.0.1",
-	"publisher": "sankalp475",
+	"name": "theme-strict-dark",
+	"displayName": "Theme_stick_green_dark",
+	"description": "Theme_stick_green_dark",
+	"version": "0.1.0",
+	"publisher": "sankalpkumar",
+	"icon": "greentheme.png",
 	"keywords": [
 		"theme",
 		"dark theme green",
@@ -12,27 +13,23 @@
 		"greendark",
 		"themegreendark"
 	],
-    "engines": {
-        "vscode": "^1.56.0"
-    },
+	"engines": {
+		"vscode": "^1.56.0"
+	},
 	"repository": {
 		"type": "git",
 		"url": "https://github.com/sankalp475/Theme_stick_dark"
 	},
-    "categories": [
-        "Themes"
-    ],
-    "contributes": {
-        "themes": [
-            {
-                "label": "Theme_stick_green_dark",
-                "uiTheme": "vs-dark",
-                "path": "./themes/Theme_stick_green_dark.json"
-            }
-        ]
-    }
+	"categories": [
+		"Themes"
+	],
+	"contributes": {
+		"themes": [
+			{
+				"label": "Theme_stick_green_dark",
+				"uiTheme": "vs-dark",
+				"path": "./themes/Theme_stick_green_dark.json"
+			}
+		]
+	}
 }
-
-
-
-
