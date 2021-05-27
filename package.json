@@ -1,0 +1,38 @@
+{
+    "name": "theme-strict-dark",
+    "displayName": "Theme_stick_green_dark",
+    "description": "Theme_stick_green_dark",
+    "version": "0.0.1",
+	"publisher": "sankalp475",
+	"keywords": [
+		"theme",
+		"dark theme green",
+		"green theme",
+		"darkthemegreen",
+		"greendark",
+		"themegreendark"
+	],
+    "engines": {
+        "vscode": "^1.56.0"
+    },
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/thecodercoder/codercoder-dark-theme"
+	},
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Theme_stick_green_dark",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Theme_stick_green_dark.json"
+            }
+        ]
+    }
+}
+
+
+
+
